@@ -1,5 +1,7 @@
 # ludusavi
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Where a game keeps its saves, from
 [`mtkennerly/ludusavi-manifest`](https://github.com/mtkennerly/ludusavi-manifest)
 — the community dataset behind
