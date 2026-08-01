@@ -1,8 +1,5 @@
 # ludusavi
 
-A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
-Oklahoma non-profit corporation with 501(c)(3) status pending.
-
 Where a game keeps its saves, from
 [`mtkennerly/ludusavi-manifest`](https://github.com/mtkennerly/ludusavi-manifest)
 — the community dataset behind
